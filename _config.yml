@@ -1,28 +1,26 @@
-source: .
-destination: ./_site
-plugins_dir: ./_plugins
-layouts_dir: ./_layouts
-data_dir: ./_data
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
 
-encoding:     "utf-8"
+port: 8080
+host: news.zuhlke.com
 
-# Serving
-detach:  false
-port:    8080
-host:    news.zuhlke.com
-baseurl: "" # does not include hostname
-url: "http://news.zuhlke.com"
+# Site settings
+title: Zuhlke News UK
+description: '' # write a nice description for your blog
+baseurl: '' # the subpath of your site, e.g. /blog
+url: "http://news.zuhlke.com" # the base hostname & protocol for your site http://www.example.com
+# google_analytics: 'UA-XXXXXX-X'
+twitter_username: 'zuhlke_uk'
 
-title: Zuhlke UK News
-description: All Zuhlke UK News in one place
-google_analytics:
-theme: jekyll-theme-cayman
+# Build settings
+markdown: kramdown
 
-github:
-  is_project_page: true
-  owner_name: Raul Rodriguez
-  owner_url: https://github.com/raulra08/
-  repository_name: aws-cloud-formation
-  repository_url: https://github.com/raulra08/aws-cloud-formation
+permalink: '/:title/'
 
-include: ['_pages']
+gems: [jekyll-paginate]
+
+paginate: 5
