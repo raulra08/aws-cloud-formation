@@ -1,3 +1,6 @@
+# Install rvm & ruby 2.4
+# https://tecadmin.net/install-ruby-2-4-centos-rvm/
+
 sudo yum update -y
 sudo yum install git -y
 sudo yum install ruby -y
