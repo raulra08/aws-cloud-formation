@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zuhlke News UK</title>
+    <description></description>
+    <link>http://news.zuhlke.com:8080/</link>
+    <atom:link href="http://news.zuhlke.com:8080/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 05 Apr 2017 01:36:45 +0100</pubDate>
+    <lastBuildDate>Wed, 05 Apr 2017 01:36:45 +0100</lastBuildDate>
+    <generator>Jekyll v3.4.3</generator>
+    
+      <item>
+        <title>Mar UK Newsletter</title>
+        <description>&lt;p&gt;Dear All,&lt;/p&gt;
+
+&lt;p&gt;I spent the weekend on a Group Executive Off-Site in the Alps and wrote the March ’17 edition of my newsletter on my journey back to London. I hope you’ll enjoy it.&lt;/p&gt;
+
+&lt;p&gt;1. HR&lt;/p&gt;
+
+&lt;p&gt;Quite a few colleagues have successfully completed their probationary period since the last staff meeting. Congratulations to Paul Cadman (promoted to Software Engineer), Phil Hudson (promoted to Lead Consultant), Catia, Anna, Manoj, Andre Müller, Paul Simmons, Teona, Paula, Lukasz and Alison (promoted to Lead Consultant).&lt;/p&gt;
+
+&lt;p&gt;Jan has tendered his resignation in order to emigrate to China in order to be with his wife, who has accepted a placement in Shanghai. Surprisingly for me, after his first month with Zuhlke, Nasan has decided that a career in a professional services firm is not for him and he has left us at the end of last week.&lt;/p&gt;
+
+&lt;p&gt;Arturo Pina has accepted our job offer as a Senior Project Manager. Arturo joins us from Equal Experts and comes with a wealth of experience in managing Agile projects. Arturo is from Spain and he began his career at Ioko building video on demand solutions. Ioko were acquired by Piksel and coincidentally, Arturo wrote a fair bit of the code that Jaksa, Immo and I investigated when we were working on a legal case between FilmFlex and Piksel.&lt;/p&gt;
+
+&lt;p&gt;Emese Kolarovzki has accepted our offer for a Project Support Accountant position and she will take over all Vertec related and accounts payable work. Moreover, we have decided that we are now large enough to in-source the accounting work that has so far been done by our Swiss colleagues and also the payroll processing from Swiss &amp;amp; Williamson. We are pleased that Hashim Salim has accepted our offer to fill this role. Both Emese and Hashim will start on April 10th.&lt;/p&gt;
+
+&lt;p&gt;I have met with Daphne last week. Her MSc in Machine Learning is going well and she confirmed that she will be back in time for Camp.&lt;/p&gt;
+
+&lt;p&gt;We will have a staff meeting next Thursday, where we’ll discuss amongst the usual topics, the results of the Employee engagement survey and life as a consultant.&lt;/p&gt;
+
+&lt;p&gt;We have paid a deposit to be able to hold our Christmas party in the Bikeshed (just around the corner) on Friday December 1st. Ina will send you an outlook invitation shortly.&lt;/p&gt;
+
+&lt;p&gt;2. Projects&lt;/p&gt;
+
+&lt;p&gt;The HSBC Mobile X UK team is pushing ahead building new mobile app features for the first public release for UK customers at the end of May. In addition to the features, a fair bit of time is spent on ensuring that the platform, hosting, operations and support centre staff are ready for this release.&lt;/p&gt;
+
+&lt;p&gt;A second team was spawned off the Mobile X team that is building a platform for the global app that will see a roll-out in a number of different markets. Unlike the Mobile X UK app the global app will be natively built for iOS and Android.&lt;/p&gt;
+
+&lt;p&gt;In a meeting with the leadership team of HSBC Digital Solutions, the progress of the team building out the Security Platform was praised and the leaders were very happy with our performance.&lt;/p&gt;
+
+&lt;p&gt;The HSBC platform team is currently building an authorisation framework and also making inroads into improving the build and deployment pipeline.&lt;/p&gt;
+
+&lt;p&gt;The Drum Cussac GRM/TP system was demonstrated at trade show, which generated a lot of interest. We had expected the work to finish, but last Friday the client has told us that they would like to extend the team to build more valuable features. Because we had previously expected the work to come to an end next week, Huw has agreed to join the Mobile X team. He’ll be replaced by Andre Mueller on the Drum Cussac Team.&lt;/p&gt;
+
+&lt;p&gt;We have agreed a Statement of Work with LV= last year to extend our engagement until the end of March 2018. The work is now done mostly in Hitchin but the team are in the office on Fridays.&lt;/p&gt;
+
+&lt;p&gt;The Linde system that we built has so far been used successfully in a number of US hospital chains. A team consisting of Susan, Raiyan and Nasan built a set of further features for Linde’s Gas Cylinder tracking system, that are aimed at the European Market. The assignment was completed last week and we are currently negotiating a maintenance contract.&lt;/p&gt;
+
+&lt;p&gt;Raiyan will move on to build some more features for LiDCO in an engagement that started this week.&lt;/p&gt;
+
+&lt;p&gt;3. Sales&lt;/p&gt;
+
+&lt;p&gt;We are negotiating the Master Agreement with Ellipse (a subsidiary of Munich Re) currently. Ellipse, who insure group risk (Life, Private Medical, Critical Illness and Incapacity) want us to start work on a new quotation front-end in May. We can choose the technology stack for this project and it will be run from our office.&lt;/p&gt;
+
+&lt;p&gt;Mike has secured a verbal order for 20k worth of work on the Energenie Mihome app.&lt;/p&gt;
+
+&lt;p&gt;We are negotiating a statement of work to review a staff tablet application for HSBC in HongKong that Jaksa will undertake.&lt;/p&gt;
+
+&lt;p&gt;We are also negotiating an engagement with LGT Vestra Wealth for a system that will automate the creation of Factsheets of financial products, which are currently built manually. This will be a .NET system that we are hoping the Manchester team will take on shortly.&lt;/p&gt;
+
+&lt;p&gt;We are also working on a substantial bid for Third Bridge, who provide market intelligence and access to experts. The aim of that project will be to manage the wealth of knowledge that Third Bridge Analysts create in a systematic manner that is supported by an IT system. We have had several meetings with the client so far and will have another meeting shortly to discuss requirements so that we can estimate the budget required for this work.&lt;/p&gt;
+
+&lt;p&gt;Mike is pursuing interesting leads at Centrica for an oil monitoring component in combined heat/power engines and to IoT enable home boilers for Hive.&lt;/p&gt;
+
+&lt;p&gt;We are pursuing a number of further leads that will bring work for the Manchester team. This includes an augmented reality application for utilities that overlays cable and pipe routing on images taken by a phone/tablet camera and a discovery for innovations that improve the efficiency in the logistics chain of AO.com, the leading on-line white goods manufacturers.&lt;/p&gt;
+
+&lt;p&gt;4. Finance&lt;/p&gt;
+
+&lt;p&gt;Zuhlke UK has had a good start into the new year. We have outperformed our rolling forecast on revenue by £200k and our EBITB is on target. We have also succeeded in obtaining a substantial tax refund for the R&amp;amp;D we carried out ourselves and on behalf of our clients in 2015.&lt;/p&gt;
+
+&lt;p&gt;5. Giving something back&lt;/p&gt;
+
+&lt;p&gt;I have agreed with Ileana that we will change the fruit provider to one who sources them from sustainable and organic growers and they promise that they will plant a tree for each basket we buy.&lt;/p&gt;
+
+&lt;p&gt;John is putting together a batch of laptops that we now longer use because they are out of warranty to be repurposed for a state school in Marylebone that Steve Freeman and his wife are involved with.&lt;/p&gt;
+
+&lt;p&gt;Three people have already or about to purchase bicycles through our cycle to work scheme this year so far. By cycling to work they will reduce the load on the Tube/Bus network without polluting the environment. If anybody else is interested please talk to Ina and/or Tim.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 22 Mar 2017 00:00:00 +0000</pubDate>
+        <link>http://news.zuhlke.com:8080/Mar-UK-Newsletter/</link>
+        <guid isPermaLink="true">http://news.zuhlke.com:8080/Mar-UK-Newsletter/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Feb UK Newsletter</title>
+        <description>&lt;p&gt;Dear All,&lt;/p&gt;
+
+&lt;p&gt;I thought I should send another update in this newsletter before I check out for my annual skiing trip tomorrow. There’s some good news at the end (re the 2016 profit share) that you might not want to miss ;-)&lt;/p&gt;
+
+&lt;p&gt;Cheers&lt;/p&gt;
+
+&lt;p&gt;Wolfgang&lt;/p&gt;
+
+&lt;p&gt;1. HR&lt;/p&gt;
+
+&lt;p&gt;Raul, Nasan and Sebastien have now all joined us and it was nice to get to know this years’ new joiners better during lunch earlier this week.
+&lt;!--break--&gt;
+We have hired another software engineer in Manchester, Matthew Richards, who starts on 20th March, and are in the process of making offers to two more engineers in London.&lt;/p&gt;
+
+&lt;p&gt;Ljiljana Evans has left us following our decision not to confirm her appointment at the end of her probationary period. Sabine has decided to accept an offer a finance role in the F&amp;amp;C team of our Swiss sister company and will be moving to Switzerland in May.&lt;/p&gt;
+
+&lt;p&gt;We are hoping to have 3 summer interns in the office this year, and have made offers, two of which have been accepted so far.&lt;/p&gt;
+
+&lt;p&gt;2. Projects&lt;/p&gt;
+
+&lt;p&gt;The Mobile X project is in production and the number of users will be gradually ramped up. The project had a good show and tell on Wednesday where we demonstrated Touch-ID login for the first time.&lt;/p&gt;
+
+&lt;p&gt;The ITV Commercial Analysis engagement has come to an end. The CA tools are in production, and a smaller team are now doing business as usual work. Rahat has joined Mobile X and Vlad will leave the Commercial Operations project at the end of this month as we do not really want Zuhlke staff on their own at client sites. Vlad will join the HSBC Platform team.&lt;/p&gt;
+
+&lt;p&gt;The LV= engagement will reduce to a team of six by the end of March. We are currently negotiating an extension of the order until the end of March 2018. The team will be based at LV= in Hitchin, with the usual Friday visits to our office.&lt;/p&gt;
+
+&lt;p&gt;The Drum team have more or less completed work on the Global Risk Monitor part of the development and are focussing their attention now on Travel Protect features. The team will continue to develop until the end of March at which time we will hand over the development to Drum team members.&lt;/p&gt;
+
+&lt;p&gt;On Friday we will have a project-kick off for a new features set of the Linde LivIQ solution that will enable Linda to market the solution in Europe. Nasan, Raiyan and Susan will work on this project.&lt;/p&gt;
+
+&lt;p&gt;Also on Friday we hope to kick-off another project for Linde that will develop UX prototypes of a patient pathway application that Jesper will be working on.&lt;/p&gt;
+
+&lt;p&gt;3. Sales&lt;/p&gt;
+
+&lt;p&gt;Bryan and Brewster are handling negotiations for the master agreement for Ellipse to re-engineer their digital group risk insurance solution. The client has given us a start date for a team in April-May time.&lt;/p&gt;
+
+&lt;p&gt;Bryan has responded to an RfP for PDF Factsheet generation for a Fund of Funds called LGT Vestra Wealth, who apparently have other work that they might like us to do.&lt;/p&gt;
+
+&lt;p&gt;We have received an RfP from Hive for developing a home automation gateway.&lt;/p&gt;
+
+&lt;p&gt;We have also received an RfP for a Discovery phase to improve the user experience of readers in the British Library.&lt;/p&gt;
+
+&lt;p&gt;We have have participated in a pre-qualification round at the UK Passport Office for a digital solution to handle lost or stolen passports.&lt;/p&gt;
+
+&lt;p&gt;There is an opportunity to place a team into Tandem, a startup-bank that aims to challenge the big four banks with more appealing digital solutions, and to work again with Paul Clark, whom some of you know from when he was at ITV and HSBC.&lt;/p&gt;
+
+&lt;p&gt;4. Group News&lt;/p&gt;
+
+&lt;p&gt;At the Group Executive Committee we have decided to open Zuhlke Asia in June with an office in Singapore. The company will be incorporated next week. We will also incorporate a Branch of Zuhlke Asia in Hong Kong and it is now increasingly likely that HSBC will place an order for a sizeable team to work in Hong Kong. We have commenced contract negotiations with HSBC and I will give an update in my next newsletter.&lt;/p&gt;
+
+&lt;p&gt;5. Finance&lt;/p&gt;
+
+&lt;p&gt;Our EBITB margin in 2016 was 17.8% (the highest in the Group). As a result, there will be a profit share payment from ZUK of 6% of your 2016 salary that you will receive with the February payroll. As in previous years, it is possible to pay this into your pension plan, in which case Zuhlke will contribute an additional 13.8% of the profit share payment based on saved National Insurance contributions.&lt;/p&gt;
+
+&lt;p&gt;The Group’s EBITB margin in 2016 was 14.8% and there will be another profit share payment from Zuhlke Group of 3% of the 2016 salary that you earned while you were employed after you completed your first probationary period with any Zuhlke Group company. This payment will be made with the April salary when the audited accounts are available.&lt;/p&gt;
+
+&lt;p&gt;Overall, the Zuhlke Group had 19.5MCHF in pre-tax earnings in 2016 of which we will share 7.6MCHF (39%) with all Group staff through local and group profit sharing schemes. The remainder will be set aside for investments, most notably the fit out of new offices in Eschborn and Schlieren, corporation taxes, increasing of reserves and a small dividend payment to shareholders.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 10 Feb 2017 00:00:00 +0000</pubDate>
+        <link>http://news.zuhlke.com:8080/Feb-UK-Newsletter/</link>
+        <guid isPermaLink="true">http://news.zuhlke.com:8080/Feb-UK-Newsletter/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Jan UK Newsletter</title>
+        <description>&lt;p&gt;Dear All,&lt;/p&gt;
+
+&lt;p&gt;Below you’ll find the first newsletter edition of 2017. Enjoy reading&lt;/p&gt;
+
+&lt;p&gt;Wolfgang&lt;/p&gt;
+
+&lt;p&gt;1. HR&lt;/p&gt;
+
+&lt;p&gt;Philipp Morier and Ben Doering left us at the end of last year. We hope that Ben will join Zuhlke in Hong Kong after he has performed his National Service in Switzerland. Sadly James Every has also tendered his resignation. He has decided to leave London in a fortnight to be able to spend more time with his wife, who lives in Italy.
+&lt;!--break--&gt;
+We have quite a few new starters since the last staff meeting. Waddaah Abdu joined us as an Associate Software Engineer in mid December. When we returned after the holidays, Mo Rahmesanpoor was finally able to join us as a permanent member of staff after we have managed to sponsor, and he obtained, his Tier-2 Visa. Jason Costa joined us as an Associate Software Engineer, and Susan Engel joined us as a Senior UX Consultant. Next week, Raul Rodriguez will join us as an Associate Software Engineer and Sebastien Chatal will join us as a Senior Software Engineer. Nasan Baasanjav will join us as a Senior Software Engineer in the first week of February.&lt;/p&gt;
+
+&lt;p&gt;We are still looking to hire a DevOps engineer, an experienced Java Software Engineer and a Lead Consultant for embedded software development. If you know of anybody suitable please get in touch. For those of you who have not been with us for long, you might like to know that successful introductions of staff will be rewarded with a £1,000 referral bonus.&lt;/p&gt;
+
+&lt;p&gt;As a result of the last round of appraisals and probation reviews we are pleased to announce the following promotions:
+Yurena Cabrera – to Software Engineer
+Kevin Denver – to Lead Engineer
+Daniel Gartmann – to Lead Security Consultant
+Phil Hudson – to Lead Consultant
+Lachezar Kozhuharov – to Senior Software Engineer
+Vladimir Radzivil – to Lead Consultant
+Please join me in congratulating Yurena, Kevin, Daniel, Phil, Lacho and Vlad! They have worked hard for their promotions, which are very well deserved.&lt;/p&gt;
+
+&lt;p&gt;We have decided to have the Zuhlke UK camp in the UK this year (for a change). Tim has found a wonderful newly refurbished hotel on the shore of Lake Windemere that is large enough to accommodate the full company. The Lake District is easy to reach by train from London and Manchester and is one of the most beautiful places in this country, with many possibilities for outdoor and sporting activities. Camp will be held in the week commencing Sept 18th. An Outlook invite for the full week has been sent out to all of you. Lynne will be organizing the camp programme this year – feel free to contact her with suggestions.&lt;/p&gt;
+
+&lt;p&gt;The 2018 camp will most likely be held in June, as we will have the Zuhlke Days conference (for the entire Zuhlke group) in September 2018 in Stuttgart. We are starting the search for a suitable overseas camp location this week – the larger we grow the more notice is required to get a good conference hotel at affordable rates.&lt;/p&gt;
+
+&lt;p&gt;We have received the results of the Best Employer Survey that we conducted at the end of last year. The overall engagement score is much the same as in the previous year. We have gone through the detailed summaries of your responses and are in the process of formulating an action plan that we will discuss at the next staff meeting at the end of March.&lt;/p&gt;
+
+&lt;p&gt;2. Projects&lt;/p&gt;
+
+&lt;p&gt;We have had (verbal) orders for project extensions from the HSBC Security Platform for the full year and the Platform Engineering team until September. Together with the Mobile X extension we signed just before the holidays this means HSBC will be our largest client (by far) in 2017. Of the new joiners, Sebastien will join the HSBC Platform Team and Nasan and Raul will join the security team.&lt;/p&gt;
+
+&lt;p&gt;We have had a request for an extension from LV for a (slightly reduced) LV team to further develop the Retirements Account Solution between April and March 2018. Jason Costa will take over from Andre C, who will join the Mobile X team. Natalia will join the HSBC Security Team.&lt;/p&gt;
+
+&lt;p&gt;The ITV Commercial Analysis project (CASPA) is switching to BAU and Rahat will leave ITV in a couple of weeks to join the Mobile X team at HSBC. Vlad will still continue with the ITV Commercial Operations project will continue for a while.&lt;/p&gt;
+
+&lt;p&gt;LiDCO are placing small work orders for the haemodynamic monitors that Raiyan is working on.&lt;/p&gt;
+
+&lt;p&gt;The Drum team are preparing for an important trade show where Drum Cussac want to demo the GRM and TP solution we are building for them. We currently have budget for the team until Mid march but are negotiating an extension with the client.&lt;/p&gt;
+
+&lt;p&gt;3. Sales&lt;/p&gt;
+
+&lt;p&gt;We have lost a bid for an Alpha phase for a Digital Service at the Dept. of Business, Energy and Industrial Strategy.&lt;/p&gt;
+
+&lt;p&gt;Mike is negotiating a web interface for an embedded device at Servomex, who produce sensors and actuators for oil and gas installations.&lt;/p&gt;
+
+&lt;p&gt;Keith and Adam offered a Discovery phase offered at AO.com for efficiency improvements in their logistics and warehouse operation.&lt;/p&gt;
+
+&lt;p&gt;Bryan and Susan are working on a proposal for generating PDFs for fact sheets at LGT Vestra Wealth.&lt;/p&gt;
+
+&lt;p&gt;4. Premises&lt;/p&gt;
+
+&lt;p&gt;Last year, we published an environmental policy that is aimed at minimising the impact of our operations in London and Manchester on the environment. The policy is available in the quality manual by following the above link.&lt;/p&gt;
+
+&lt;p&gt;One of the guidelines in the policy is that we should procure our electricity from a Green Energy provider – we are using Opus Energy. I have obtained the breakdown of the wholesale electricity that they provide to us. According to this breakdown 93% of the electricity we used in 2016 was generated from renewable sources, 3% from Natural Gas, 2% from Coal, 1% from Nuclear and 1% from others. Because our heating and air conditioning is provided by (electrically powered) heat pumps we can fairly claim that our contribution to C02 emissions and radioactive waste is minimal.&lt;/p&gt;
+
+&lt;p&gt;5. Finance&lt;/p&gt;
+
+&lt;p&gt;We have closed the books for 2016 and will have the accounts audited from Monday. Zuhlke UK managed to generate revenue of £7.113M (up from £5.9M in 2015) and we generated earnings before tax and profit share (EBITB) of £1.266M (up from £880k). Judging by EBITB margin, Zuhlke UK was the most profitable company of the Zuhlke Group in 2016. In line with the profit sharing scheme you can expect to receive with your February salary a UK profit share in the region of 6% of the gross salary you were paid in 2016. The accounts of the Zuhlke Group are still being consolidated and I should be able to provide details about the group profit share with you in my next newsletter.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 20 Jan 2017 00:00:00 +0000</pubDate>
+        <link>http://news.zuhlke.com:8080/Jan-UK-Newsletter/</link>
+        <guid isPermaLink="true">http://news.zuhlke.com:8080/Jan-UK-Newsletter/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
