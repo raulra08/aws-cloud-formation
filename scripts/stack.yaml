@@ -70,7 +70,3 @@ Resources:
         # Setup the application\n
         git clone https://github.com/raulra08/aws-cloud-formation.git /opt/aws-cloud-formation
         sudo chown -R ec2-user: /opt/aws-cloud-formation
-        cd /opt/aws-cloud-formation
-        # Start application\n
-        bundle install
-        bundle exec jekyll serve &
